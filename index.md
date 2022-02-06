@@ -1,7 +1,7 @@
 ---
 Layout: page
 permalink: /home/
-title: "Home"
+title: "About Me"
 
 ---
 
