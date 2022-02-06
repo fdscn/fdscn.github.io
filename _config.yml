@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "francisco.pdf", title: "CV"}
+  - {title: "Newsletter", link: "https://fdscn.substack.com}
   - {file: "aboutme.md", title: "About me"}
   - {file: "blog.md", title: "IBEB"}
 
