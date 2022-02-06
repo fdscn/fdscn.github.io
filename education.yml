@@ -1,0 +1,16 @@
+---
+
+# Education
+
+
+"IBEB"
+  "Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (active recall and spaced repetition), although I did use notes for Macro, for example. In order to open the flashcards, you have to download anki and import the deck. 
+    
+    
+ - {title: "Accounting", file: "accounting.akpg"}
+ - {title: "Microeconomics", file: "microeconomics.akpg"}
+ - {title: "Applied Statistics 1", file: "appliedstatistics.akpg"}
+ - {title: "Macroeconomics", file: "macroeconomics.akpg", file: "macronotes.pdf"}
+
+
+---
