@@ -19,4 +19,4 @@ When I study, I try to incorporate insights from techniques such as Active Recal
 
 [How to Study for Exams - Spaced Repetition | Evidence-based revision tips]("https://www.youtube.com/watch?v=Z-zNHHpXoMM&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=85")
 
-[10 Things I Did to Get A*A*A* in my A Levels (A* Revision Tips and Techniques 2018) | Jack Edwards]("https://www.youtube.com/watch?v=_c2u--KkoqI&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=32")
+[10 Things I Did to Get AAA in my A Levels (A* Revision Tips and Techniques 2018) | Jack Edwards]("https://www.youtube.com/watch?v=_c2u--KkoqI&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=32")
