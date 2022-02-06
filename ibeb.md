@@ -11,10 +11,10 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 
 When I study, I try to incorporate insights from techniques such as Active Recall and Spaced Repetition, which are not only scientifically proven, but have also worked perfectly for me. Here are some of the videos that I drew inspiration from:
 
-[How to study for exams - Evidence-based revision tips]("https://www.youtube.com/watch?v=ukLnPbIffxE")
+[How to study for exams - Evidence-based revision tips](https://www.youtube.com/watch?v=ukLnPbIffxE")
 
-[How I Crush Tests and Exams (and you can too)]("https://www.youtube.com/watch?v=0VvWx_i-0Z4&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=3")
+[How I Crush Tests and Exams (and you can too)](https://www.youtube.com/watch?v=0VvWx_i-0Z4&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=3)
 
-[How to Study for Exams - Spaced Repetition - Evidence-based revision tips]("https://www.youtube.com/watch?v=Z-zNHHpXoMM&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=85")
+[How to Study for Exams - Spaced Repetition - Evidence-based revision tips](https://www.youtube.com/watch?v=Z-zNHHpXoMM&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=85)
 
-[10 Things I Did to Get AAA in my A Levels (A* Revision Tips and Techniques 2018)]("https://www.youtube.com/watch?v=_c2u--KkoqI&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=32")
+[10 Things I Did to Get AAA in my A Levels (A* Revision Tips and Techniques 2018)](https://www.youtube.com/watch?v=_c2u--KkoqI&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=32)
