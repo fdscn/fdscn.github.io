@@ -7,7 +7,6 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 [Microeconomics](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EQ7pSyboq7VBsxSWLOsp4z0BPY90_fif1nUJ0XhZcFtrhw?e=5KJUhy)
 
 
----
 How I study
 ---
 
