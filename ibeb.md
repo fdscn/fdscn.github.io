@@ -1,5 +1,5 @@
 ---
-title: " IBEB(International Bachelor in Economics and Business Economics)"
+title: " IBEB (International Bachelor in Economics and Business Economics)"
 ---
 
 Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (active recall and spaced repetition), although I did use notes for Macro, for example. In order to open the flashcards, you have to download anki and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Don't hesitate to [e-mail me](mailto:598499fd@eur.nl) if you would like some study tips or if you have any questions! 
