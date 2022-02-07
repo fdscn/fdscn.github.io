@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-  My name is Francisco Neves, and I am a portuguese student in the Netherlands. I study [Economics and Business Economics](https://www.eur.nl/en/bachelor/international-bachelor-economics-and-business-economics) at [Erasmus Universiteit Rotterdam](https://www.eur.nl/en). My main interests are Economics, Philosophy and Politics. Feel free to [e-mail me](mailto:598499fd@eur.nl) if there is something I can help you with!
+  My name is Francisco Neves, and I am a portuguese student in the Netherlands. I study [Economics and Business Economics](https://www.eur.nl/en/bachelor/international-bachelor-economics-and-business-economics) at [Erasmus Universiteit Rotterdam](https://www.eur.nl/en). My main interests are Economics, Philosophy and Politics. Feel free to [e-mail me](mailto:598499fd@eur.nl) if there is anything I can help you with!
 
 ![ESE](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rotterdam_School_of_Management_Erasmus_University_Campus_spring.jpg/500px-Rotterdam_School_of_Management_Erasmus_University_Campus_spring.jpg)
 
