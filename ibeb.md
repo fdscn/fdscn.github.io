@@ -2,12 +2,14 @@
 title: " IBEB (International Bachelor in Economics and Business Economics)"
 ---
 
-Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (active recall and spaced repetition), although I did use notes for Macro, for example. In order to open the flashcards, you have to download anki and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Don't hesitate to [e-mail me](mailto:598499fd@eur.nl) if you would like some study tips or if you have any questions! 
+Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (for active recall and spaced repetition), although I did use notes for Macroeconomics, for example. In order to open the flashcards, you have to download anki and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Don't hesitate to [e-mail me](mailto:598499fd@eur.nl) if you would like some study tips or if you have any questions! 
 
 [Accounting (9/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EZfmCEhFTaFFisHLxJ4aMyABssQzWdznPHy01IaH43Mx3A?e=CKIfYI) 
 
 
 [Microeconomics (9.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EQ7pSyboq7VBsxSWLOsp4z0BPY90_fif1nUJ0XhZcFtrhw?e=5KJUhy)
+
+[Macroeconomics (8.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EcfojujkjcxArx3dhZW36OkBRUoNNI92mtcj9Mw2OlRg7g?e=3co5F0) 
 
 
 ## How I study 
