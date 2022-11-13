@@ -17,7 +17,7 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 
 ## How I study 
 
-When I study, I try to incorporate insights from techniques such as Active Recall and Spaced Repetition, which are not only scientifically proven, but have also worked perfectly for me. Here are some of the videos that I drew inspiration from:
+When I study, I try to incorporate insights from techniques such as Active Recall and Spaced Repetition, which are not only scientifically proven, but have also worked well for me. Here are some of the videos that I drew inspiration from:
 
 [How to study for exams - Evidence-based revision tips](https://www.youtube.com/watch?v=ukLnPbIffxE)
 
