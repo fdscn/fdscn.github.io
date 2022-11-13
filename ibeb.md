@@ -8,7 +8,7 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 
 [Microeconomics (9.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EQ7pSyboq7VBsxSWLOsp4z0BPY90_fif1nUJ0XhZcFtrhw?e=5KJUhy)
 
-[Macroeconomics (8.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EcfojujkjcxArx3dhZW36OkBRUoNNI92mtcj9Mw2OlRg7g?e=3co5F0) 
+[Macroeconomics (8.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYOGHVzQ-ERBkUPtddAwj8IBjaVFlOB003M0-ITAjLnxtA?e=r8MAQQ) 
 
 [Macroeconomics (8.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Ea96R7HnmOdKrOO7ES_-WuEBTApN779cPaOl8KaDLVIXQQ?e=Inb63b)
 
