@@ -14,6 +14,8 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 
 [Organisation and Strategy (9.1/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Ebq1s0Dr8GlDr0KnumxL4ScB7OoqPbk6pj-XIp_e9g1kjg?e=3rnKYe)
 
+[International Economics - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYwAloY87z5Bs3jgjhjwXG4BgLfoPr_bjijmzheclwzRCw?e=LW9oTx) 
+
 
 ## How I study 
 
