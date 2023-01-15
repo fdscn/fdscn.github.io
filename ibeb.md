@@ -2,7 +2,7 @@
 title: " IBEB (International Bachelor in Economics and Business Economics)"
 ---
 
-Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (for active recall and spaced repetition), although I did use notes for Macroeconomics, for example. In order to open the flashcards, you have to download anki and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Don't hesitate to [e-mail me](mailto:598499fd@eur.nl) if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
+Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (for active recall and spaced repetition), although I did use notes for Macroeconomics, for example. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Don't hesitate to [e-mail me](mailto:598499fd@eur.nl) if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
 
 [Accounting (9/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EZfmCEhFTaFFisHLxJ4aMyABssQzWdznPHy01IaH43Mx3A?e=CKIfYI) 
 
@@ -14,7 +14,11 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 
 [Organisation and Strategy (9.1/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Ebq1s0Dr8GlDr0KnumxL4ScB7OoqPbk6pj-XIp_e9g1kjg?e=3rnKYe)
 
-[International Economics - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYwAloY87z5Bs3jgjhjwXG4BgLfoPr_bjijmzheclwzRCw?e=LW9oTx) 
+[International Economics (9.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYwAloY87z5Bs3jgjhjwXG4BgLfoPr_bjijmzheclwzRCw?e=LW9oTx) 
+
+[International Economics (9.4/10 - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EdjpsEq5twBEtnKc2afEYCIB7ihKqy1uL2xr0iFBjOu-ZQ?e=q0ddG1)
+
+[Applied Statistics 2 (8.7/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EcMnpcZ3MRNHqRjMYV4O9_sBuCIfxwHwkJcZfcUk2Amevw?e=0qb8y9)
 
 
 ## How I study 
