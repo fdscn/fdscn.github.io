@@ -14,11 +14,13 @@ Here you can find the study materials I used for my first year of IBEB. I mostly
 
 [Organisation and Strategy (9.1/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Ebq1s0Dr8GlDr0KnumxL4ScB7OoqPbk6pj-XIp_e9g1kjg?e=3rnKYe)
 
+[Applied Statistics 2 (8.7/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EcMnpcZ3MRNHqRjMYV4O9_sBuCIfxwHwkJcZfcUk2Amevw?e=0qb8y9)
+
 [International Economics (9.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYwAloY87z5Bs3jgjhjwXG4BgLfoPr_bjijmzheclwzRCw?e=LW9oTx) 
 
 [International Economics (9.4/10 - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EdjpsEq5twBEtnKc2afEYCIB7ihKqy1uL2xr0iFBjOu-ZQ?e=q0ddG1)
 
-[Applied Statistics 2 (8.7/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EcMnpcZ3MRNHqRjMYV4O9_sBuCIfxwHwkJcZfcUk2Amevw?e=0qb8y9)
+[History of Economic Thought (9.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Een6azmIIUVFrJIXvWFQZVABUnq5nFBxCCAm6j6oqTHCiw?e=8IrCiX)
 
 
 ## How I study 
