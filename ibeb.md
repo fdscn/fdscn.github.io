@@ -5,7 +5,7 @@ title: "Resources"
 ## Bachelor's Degree - Economics and Business Economics 
 
 
-Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (for active recall and spaced repetition), although I did use notes for Macroeconomics, for example. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
+Here you can find the study materials I made during my bachelor's degree for courses in which I did well. I mostly used flashcards (for active recall and spaced repetition) and notes. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. If you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
 
 [Resources](https://drive.google.com/drive/folders/1f-QZjl2y8Q6jln14wFQnpL5xl2iBh728?usp=sharing)
 
