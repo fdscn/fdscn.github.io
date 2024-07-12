@@ -19,7 +19,7 @@ navigation:   # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me"}
   - {url: "https://docs.google.com/document/d/1UlXyave9EUw-omKExQYvnqJst0uIZwbp/edit?usp=sharing&ouid=110779932187320308482&rtpof=true&sd=true", title: "CV"}
   - {url: "https://fdscn.substack.com", title: "Newsletter"}
-  - {file: "ibeb.md", title: "IBEB"}
+  - {file: "ibeb.md", title: "Resources"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/user/show/96137929-francisco-neves"}
