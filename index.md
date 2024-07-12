@@ -3,7 +3,7 @@ layout: page
 title: "About me"
 ---
 
-  My name is Francisco Neves, and I am originally from Portugal. I graduated *cum laude* with a BSc in [Economics and Business Economics](https://www.eur.nl/en/bachelor/international-bachelor-economics-and-business-economics) from [Erasmus Universiteit Rotterdam](https://www.eur.nl/en). I am also lucky enough to have spent an exchange semester at [FEN](https://fen.uchile.cl/es) in Santiago, Chile. My main interests are Economics, Philosophy and Politics. I have a newsletter, [Portuguese Efficiency](https://fdscn.substack.com), where I occasionally write about whatever I find interesting. Feel free to connect with me if there is anything I can help you with!
+  My name is Francisco Neves, and I am originally from Portugal. I graduated *cum laude* with a BSc in [Economics and Business Economics](https://www.eur.nl/en/bachelor/international-bachelor-economics-and-business-economics) from [Erasmus Universiteit Rotterdam](https://www.eur.nl/en). I have a newsletter, [Portuguese Efficiency](https://fdscn.substack.com), where I occasionally write about whatever I find interesting. 
   
 ![Me](https://fdscn.github.io/atacama.png)
 
