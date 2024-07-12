@@ -4,9 +4,9 @@ title: "Curriculum Vitae"
 ## Experience
 Intern at the Chief Economist Office - PwC Nederland, March - July 2024
 
-Research Assistant - Erasmus School of Economics -  2023-24
+Research Assistant - Erasmus School of Economics, 2023-24
 
-Teaching Assistant - Erasmus School of Economics - 2022-24
+Teaching Assistant - Erasmus School of Economics, 2022-24
 
 
 
