@@ -1,6 +1,6 @@
 title: "Francisco Neves"
 author: "Francisco Neves"
-description: "Erasmus Universiteit Rotterdam" 
+description: "Francisco Neves, 2024" 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,7 +22,7 @@ navigation:   # accepts {file, title, url, icon, sidebaricon}
   - {file: "ibeb.md", title: "IBEB"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:598499fd@eur.nl"}
+  - {title: Mail, icon: envelope, url: "mailto:"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/franciscodscn/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/fdscneves"}
 
