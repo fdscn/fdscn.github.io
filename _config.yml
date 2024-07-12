@@ -22,7 +22,7 @@ navigation:   # accepts {file, title, url, icon, sidebaricon}
   - {file: "ibeb.md", title: "IBEB"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Goodreads, icon: goodreads-g, url: "https://www.goodreads.com/user/show/96137929-francisco-neves"}
+  - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/user/show/96137929-francisco-neves"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/franciscodscn/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/fdscneves"}
 
