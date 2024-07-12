@@ -1,26 +1,13 @@
 ---
-title: " IBEB (International Bachelor in Economics and Business Economics)"
+title: "Resources"
 ---
 
-Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (for active recall and spaced repetition), although I did use notes for Macroeconomics, for example. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Don't hesitate to [e-mail me](mailto:598499fd@eur.nl) if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
+## Bachelor's Degree - Economics and Business Economics 
 
-[Accounting (9/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EZfmCEhFTaFFisHLxJ4aMyABssQzWdznPHy01IaH43Mx3A?e=CKIfYI) 
 
-[Microeconomics (9.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EQ7pSyboq7VBsxSWLOsp4z0BPY90_fif1nUJ0XhZcFtrhw?e=5KJUhy)
+Here you can find the study materials I used for my first year of IBEB. I mostly used flashcards (for active recall and spaced repetition), although I did use notes for Macroeconomics, for example. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
 
-[Macroeconomics (8.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYOGHVzQ-ERBkUPtddAwj8IBjaVFlOB003M0-ITAjLnxtA?e=r8MAQQ) 
-
-[Macroeconomics (8.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Ea96R7HnmOdKrOO7ES_-WuEBTApN779cPaOl8KaDLVIXQQ?e=Inb63b)
-
-[Organisation and Strategy (9.1/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Ebq1s0Dr8GlDr0KnumxL4ScB7OoqPbk6pj-XIp_e9g1kjg?e=3rnKYe)
-
-[Applied Statistics 2 (8.7/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EcMnpcZ3MRNHqRjMYV4O9_sBuCIfxwHwkJcZfcUk2Amevw?e=0qb8y9)
-
-[International Economics (9.4/10) - Notes](https://liveeur-my.sharepoint.com/:b:/g/personal/598499fd_eur_nl/EYwAloY87z5Bs3jgjhjwXG4BgLfoPr_bjijmzheclwzRCw?e=LW9oTx) 
-
-[International Economics (9.4/10 - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/EdjpsEq5twBEtnKc2afEYCIB7ihKqy1uL2xr0iFBjOu-ZQ?e=q0ddG1)
-
-[History of Economic Thought (9.4/10) - Flashcards](https://liveeur-my.sharepoint.com/:u:/g/personal/598499fd_eur_nl/Een6azmIIUVFrJIXvWFQZVABUnq5nFBxCCAm6j6oqTHCiw?e=8IrCiX)
+[Resources](https://drive.google.com/drive/folders/1f-QZjl2y8Q6jln14wFQnpL5xl2iBh728?usp=sharing)
 
 
 ## How I study 
