@@ -20,7 +20,7 @@ navigation:   # accepts {file, title, url, icon, sidebaricon}
   - {file: "interests.md", icon: palette, title: "Interests"}
   - {url: "https://fdscn.substack.com", title: "Newsletter", icon: newspaper}
   - {file: "resources.md", title: "Resources", icon: folder}
-  - {file: "writing.md", title: "Writing", icon: file-word}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/franciscodscn/"}
