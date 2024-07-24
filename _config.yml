@@ -20,6 +20,7 @@ navigation:   # accepts {file, title, url, icon, sidebaricon}
   - {file: "interests.md", icon: palette, title: "Interests"}
   - {url: "https://fdscn.substack.com", title: "Newsletter", icon: newspaper}
   - {file: "resources.md", title: "Resources", icon: file}
+  - {file: "writing.md", title: "Writing", icon: pen}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/user/show/96137929-francisco-neves"}
