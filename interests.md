@@ -2,7 +2,7 @@
 title: "Interests"
 ---
 ## Individual life
-I spend a lot of my time thinking about how to live a healthy and meaningful life. Cal Newport's concept of [The Deep Life](https://www.thedeeplife.com/) resonates strongly with me. Above all else, I have noticed I am most happy when working deeply, spending time in nature (as Mary Oliver so beautifully describes in [Upstream](https://www.goodreads.com/book/show/29358559-upstream), or Thoreau in [Walden](https://en.wikipedia.org/wiki/Walden)), and connecting meaningfully with those around me. 
+I spend a lot of my time thinking about how to live a healthy and meaningful life. Cal Newport's concept of [The Deep Life](https://www.thedeeplife.com/) resonates strongly with me. Above all else, I have noticed I am most happy when working deeply, spending time in nature (as Mary Oliver beautifully describes in [Upstream](https://www.goodreads.com/book/show/29358559-upstream), or Thoreau in [Walden](https://en.wikipedia.org/wiki/Walden)), and connecting meaningfully with those around me. 
 
 When it comes to ethics, I am fond of the [stoics](https://en.wikipedia.org/wiki/Stoicism), although I still have plenty to explore in this domain.
 
