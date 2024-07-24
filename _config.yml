@@ -19,7 +19,7 @@ navigation:   # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me", icon: person}
   - {file: "interests.md", icon: palette, title: "Interests"}
   - {url: "https://fdscn.substack.com", title: "Newsletter", icon: newspaper}
-  - {file: "ibeb.md", title: "Resources", icon: file}
+  - {file: "resources.md", title: "Resources", icon: file}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Goodreads, icon: goodreads, url: "https://www.goodreads.com/user/show/96137929-francisco-neves"}
