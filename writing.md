@@ -1,2 +1,5 @@
-## Writing
+---
+layout: page
+title: Writing
+---
 
