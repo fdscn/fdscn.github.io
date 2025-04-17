@@ -4,12 +4,13 @@ title: "Resources"
 Here you can find some study materials I made. I mostly use flashcards (for active recall and spaced repetition) and notes, which I am happy to share with others. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Feel free to reach out if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
 
 
-### Bachelor's Degree - Economics and Business Economics (EUR)
+#### Bachelor's - Economics and Business Economics (EUR): [Resources](https://drive.google.com/drive/folders/1f-QZjl2y8Q6jln14wFQnpL5xl2iBh728?usp=sharing)
 
-[Resources](https://drive.google.com/drive/folders/1f-QZjl2y8Q6jln14wFQnpL5xl2iBh728?usp=sharing)
+#### Master's - Economics (Cambridge): 
 
 
-### How I study 
+--- 
+#### How I study 
 
 When I study, I try to incorporate insights from techniques such as Active Recall and Spaced Repetition, which are not only scientifically proven, but have also worked well for me. Here are some of the videos that I drew inspiration from:
 
