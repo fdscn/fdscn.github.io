@@ -13,16 +13,19 @@ Here you can find some study materials I made. I mostly use flashcards (for acti
 
 #### Master's - Economics (Cambridge): 
 
+---
+## How I Study
 
---- 
-#### How I study 
+When I study, I incorporate techniques like **Active Recall** and **Spaced Repetition** — not just because they're backed by research, but because they work. Below are some of the most helpful videos that shaped how I approach revision:
 
-When I study, I try to incorporate insights from techniques such as Active Recall and Spaced Repetition, which are not only scientifically proven, but have also worked well for me. Here are some of the videos that I drew inspiration from:
+### Recommended Study Videos
 
-[How to study for exams - Evidence-based revision tips](https://www.youtube.com/watch?v=ukLnPbIffxE)
+- [**How to Study for Exams – Evidence-Based Revision Tips**](https://www.youtube.com/watch?v=ukLnPbIffxE)  
+  A solid introduction to study strategies that are grounded in cognitive science, by the great Ali Abdaal.
 
-[How I Crush Tests and Exams (and you can too)](https://www.youtube.com/watch?v=0VvWx_i-0Z4&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=3)
+- [**How I Crush Tests and Exams (And You Can Too)**](https://www.youtube.com/watch?v=0VvWx_i-0Z4&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=3)  
+  Practical tips and mindset shifts from John Fish.
 
-[How to Study for Exams - Spaced Repetition - Evidence-based revision tips](https://www.youtube.com/watch?v=Z-zNHHpXoMM&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=85)
+- [**How to Study for Exams – Spaced Repetition**](https://www.youtube.com/watch?v=Z-zNHHpXoMM&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=85)  
+   More from Ali.
 
-[10 Things I Did to Get AAA in my A Levels (A* Revision Tips and Techniques 2018)](https://www.youtube.com/watch?v=_c2u--KkoqI&list=PL1lI1bOwRPjzgXlUp_EeDPpki6SJV4adf&index=32)
