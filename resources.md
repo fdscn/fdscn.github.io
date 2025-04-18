@@ -4,7 +4,12 @@ title: "Resources"
 Here you can find some study materials I made. I mostly use flashcards (for active recall and spaced repetition) and notes, which I am happy to share with others. In order to open the flashcards, you have to download [anki](https://apps.ankiweb.net/) and import the deck. The flashcards are in .apkg format, and the notes are pdfs. Feel free to reach out if you would like some study tips or if you have any questions! If you share these resources, please be so kind as to credit the source :)
 
 
-#### Bachelor's - Economics and Business Economics (Erasmus Univ. Rotterdam): [Resources](https://github.com/fdscn/fdscn.github.io/releases/download/v1.0/StudyResources_FranciscoNeves.zip)
+#### Bachelor's - Economics and Business Economics (Erasmus Univ. Rotterdam): 
+<a href="https://github.com/fdscn/fdscn.github.io/releases/download/v1.0/StudyResources_FranciscoNeves.zip" 
+   class="button" 
+   style="display: inline-block; padding: 12px 20px; background-color: #007ACC; color: white; text-decoration: none; border-radius: 8px; font-weight: bold;">
+  📥 Download Study Resources (466 MB)
+</a>
 
 #### Master's - Economics (Cambridge): 
 
